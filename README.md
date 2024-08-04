@@ -1,0 +1,2 @@
+# pihole
+Social Media Blocklist
