@@ -1,6 +1,14 @@
-# This blocklist helps Pi-hole's admin restrict access to Facebook and its domains.
-# Curated from sources online.
-# Last updated: 8 August 24
+[Adblock Plus]
+! Version: 202408041509
+! Title: Social Media Blocklist
+! Description: Block. Don't break.
+! Syntax: Adblock Plus Filter List
+! Last modified: 2024-08-04T15:09:27+0000
+! Expires: 1 hours
+! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
+! Maintainer: Stephan van Ruth
+! Homepage: https://oisd.nl
+! Contact: contact@oisd.nl
 
 ||apps.facebook.com^
 ||connect.facebook.net^
